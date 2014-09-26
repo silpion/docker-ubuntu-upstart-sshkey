@@ -1,7 +1,7 @@
 # silpion/ubuntu-upstart-ssh
 
 This repository provides the build process for the [Docker](https://docker.io)
-container *silpion/ubuntu-upstart-ssh*.
+container *silpion/ubuntu-upstart-sshkey*.
 
 
 This container is used at [Silpion](http://www.silpion.de) to automate
@@ -17,3 +17,6 @@ the container with SSH public key authentication.
 
 **WARNING**: DO NOT use this container for any production service!
 This container is insecure by design!
+
+
+<!-- vim: set nofen ts=4 sw=4 et: -->
